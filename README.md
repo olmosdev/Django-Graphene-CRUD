@@ -5,8 +5,10 @@ Those books have an id, title, description, createdAt and updateAt (the last two
 This project is based on [Fazt](https://youtu.be/cultgNYc1DE), a great YouTube Channel related to programming.
 
 *Note: Venv (python internal module) was used as virtual enviroment*
-*Extra note: Paths availables are: /graphql and /admin*
-### Previews
+
+*Extra note: The available paths are: /graphql and /admin*
+
+### Query example
 ![First view](./Previews/First_view.PNG)
 ![Second view](./Previews/Second_view.PNG)
 ![Third view](./Previews/Third_view.PNG)
